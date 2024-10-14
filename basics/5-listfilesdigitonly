@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -almost-all
+ls -ail
