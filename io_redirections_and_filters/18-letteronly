@@ -1,1 +1,2 @@
 #!/bin/bash
+grep -i --ignore-case "[a-z]" 
