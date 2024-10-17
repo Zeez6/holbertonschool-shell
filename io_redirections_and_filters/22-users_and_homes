@@ -1,2 +1,2 @@
 #!/bin/bash
-getent(u)
+getent(1) | print
