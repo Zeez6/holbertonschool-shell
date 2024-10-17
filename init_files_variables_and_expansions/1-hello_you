@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami print "hello user"
+whoami $HELLO_USER
